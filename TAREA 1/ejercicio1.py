@@ -1,5 +1,8 @@
 #NIEVES MORA MARTHA ELENA
 M= [[1,1,1,0,0,0],[0,1,0,0,0,0],[1,1,1,0,0,0],[0,0,2,4,4,0],[0,0,0,2,0,0],[0,0,1,2,4,0]]
+'''
+Para la entrada es necesario tener un input raw o que pueda leer el archivo 
+'''
 x=0
 for i in  range(0,4):
     for y in  range (0,4):
